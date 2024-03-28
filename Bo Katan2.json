@@ -45,7 +45,31 @@
     }
   },
 
-  "upgrades": {},
+  "upgrades": {
+    "Armament": [
+      {
+        "name": "Personal Combat Shield",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2496756500567647967/7AE51D34FB1EEA62DB866D05CC1F917AEFFBE2C7/",
+        "points": 10,
+        "restrictions": {
+          "include": {
+            "unit": ["Bo Katan"]
+          }
+        }
+      },
+         {
+        "name": "Whistling Birds",
+        "image": "http://cloud-3.steamusercontent.com/ugc/2496756500567648299/BC89B5348EBF319F1AD53FF03E5FCB469CE75A8C/",
+        "points": 30,
+        "restrictions": {
+          "include": {
+            "unit": ["Bo Katan"]
+          }
+        }
+      }
+    ]
+  },
+      
   "battlefield": {},
   "commands": {}
  }
