@@ -1,0 +1,49 @@
+{
+  "units": {
+    "Republic": {
+      "Commander": [
+        {
+          "name": "Mace Windu",
+          "title": "Master Jedi",
+          "image": "http://cloud-3.steamusercontent.com/ugc/2496756500565660697/5FA1CCBBD6861DD10EAF21ED97D06CD5130E9700/",
+          "size": "small",
+          "type": "Trooper",
+          "points": 150,
+          "speed": 3,
+          "upgrades": {
+            "Force": 3,
+            "Command": 1,
+            "Training": 1
+          },
+          "minis": [
+            {
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696350886421665/441B37D17213CA1B82174A8988ED23AA2D59336E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696350886421832/BBE3592A7496E444E116271913178A8ED41F5323/"
+            }
+          ],
+          "commands": [
+            {
+              "name": "This Party's Over",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625281940/390920829A0807A416D844133830F1BD4AA708BA/",
+              "pip": 1
+            },
+            {
+              "name": "High Jedi General",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625282871/344CE94B47257366F05F2456247B2039D9C1E353/",
+              "pip": 2
+            },
+            {
+              "name": "Shatterpoint",
+              "image": "http://cloud-3.steamusercontent.com/ugc/1021698230625283544/AA3307D7F95EC6C36F4E4F45FC786E85821B5BD7/",
+              "pip": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "upgrades": {},
+  "battlefield": {},
+  "commands": {}
+ }
